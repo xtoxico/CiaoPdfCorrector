@@ -1,7 +1,6 @@
 # Corrector de PDFs del Ciaooo 🐶📚
 
-Un buen amigo mío me escribió desesperado:  
-Estudiando en la UNED, cada vez que intentaba imprimir sus apuntes el PDF salía con **fondo negro y letras blancas**, lo que hacía el gasto de tinta imposible y los apuntes casi ilegibles en papel.  
+Un amigo mío me cuenta que cada vez que intentaba imprimir sus apuntes de la UNED el PDF salía con **fondo negro y letras blancas**, lo que hacía el gasto de tinta imposible y los apuntes casi ilegibles en papel.  
 
 De esa necesidad nació este pequeño proyecto: un **corrector de PDFs** que invierte los colores, aplana transparencias y genera un documento nuevo, limpio y listo para imprimir.
 
