@@ -21,7 +21,7 @@ De esa necesidad nació este pequeño proyecto: un **corrector de PDFs** que inv
 ## 🚀 Instalación desde código
 1. Clona el repo:
    ```bash
-   git clone https://github.com/tuusuario/corrector-pdfs-ciaooo.git
+   git clone https://github.com/xtoxico/corrector-pdfs-ciaooo.git
    cd corrector-pdfs-ciaooo
 
 
